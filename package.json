@@ -11,19 +11,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/liyasthomas/mnmlurl.git"
+    "url": "https://github.com/Lolz1243/mnmlurl.git"
   },
   "keywords": [
     "url",
     "url-shortener",
     "free"
   ],
-  "author": "Liyas Thomas",
+  "author": "Nikhil Vytla",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/liyasthomas/mnmlurl/issues"
+    "url": "https://github.com/Lolz1243/mnmlurl/issues"
   },
-  "homepage": "https://github.com/liyasthomas/mnmlurl#readme",
+  "homepage": "https://github.com/Lolz1243/mnmlurl#readme",
   "dependencies": {
     "@babel/core": "^7.5.4",
     "@babel/preset-env": "^7.5.4",
