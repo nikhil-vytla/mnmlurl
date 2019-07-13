@@ -1,4 +1,4 @@
-# <img src="src/icons/icon-48x48.png" alt="mnmlurl" width="32"> mnmlurl
+# <img src="src/icons/icon-48x48.png" alt="mnmlurl" width="32"> [mnmlurl](https://lolz1243.github.io/mnmlurl/src/)
 
 ### :link: Minimal URL is a modern URL shortener with support for custom alias by [Nikhil Vytla](https://github.com/Lolz1243) and [Liyas Thomas](https://github.com/liyasthomas)
 
