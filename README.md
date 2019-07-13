@@ -53,8 +53,8 @@ This project is developed by [Nikhil Vytla](https://github.com/Lolz1243) and [Li
 * [Liyas Thomas](https://github.com/liyasthomas)
 
 ### Contributors
-* [Nikhil Vytla](https://github.com/Lolz1243)
 * [Liyas Thomas](https://github.com/liyasthomas)
+* [Nikhil Vytla](https://github.com/Lolz1243)
 
 ---
 
