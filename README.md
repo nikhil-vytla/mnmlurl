@@ -1,6 +1,6 @@
-# <img src="src/icons/icon-48x48.png" alt="mnmlurl" width="32"> [mnmlurl](https://lolz1243.github.io/mnmlurl/src/)
+# <img src="src/icons/icon-48x48.png" alt="mnmlurl" width="32"> [mnmlurl](https://nikhil-vytla.github.io/mnmlurl/src/)
 
-### :link: Minimal URL is a modern URL shortener with support for custom alias by [Nikhil Vytla](https://github.com/Lolz1243) and [Liyas Thomas](https://github.com/liyasthomas).
+### :link: Minimal URL is a modern URL shortener with support for custom alias by [Nikhil Vytla](https://github.com/nikhil-vytla).
 
 <div align="center">
   <br>
@@ -37,24 +37,8 @@ We use [Travis CI](https://travis-ci.com) for continuous integration.
 
 ---
 
-## Versioning
-
-This project is developed by [Liyas Thomas](https://github.com/liyasthomas) and [Nikhil Vytla](https://github.com/Lolz1243) using the [Semantic Versioning specification](https://semver.org). For the versions available, see the [releases on this repository](https://github.com/liyasthomas/mnmlurl/releases).
-
----
-
 ## Authors
-
-### Lead Developers
-* [**Liyas Thomas**](https://github.com/liyasthomas) - *Author*
-
-### Testing and Debugging
-* [Liyas Thomas](https://github.com/liyasthomas)
-* [Nikhil Vytla](https://github.com/Lolz1243)
-
-### Contributors
-* [Liyas Thomas](https://github.com/liyasthomas)
-* [Nikhil Vytla](https://github.com/Lolz1243)
+* [Nikhil Vytla](https://github.com/nikhil-vytla)
 
 ---
 
